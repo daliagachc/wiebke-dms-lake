@@ -26,8 +26,8 @@ diego.aliaga at helsinki dot fi
 import matplotlib.pyplot as plt
 # %%
 # from useful_scit.imps2.defs import *
-from sklearn.linear_model import ElasticNet,ElasticNetCV
-import flexpart_management.modules.flx_array as fa
+# from sklearn.linear_model import ElasticNet,ElasticNetCV
+# import flexpart_management.modules.flx_array as fa
 import warnings
 warnings.filterwarnings('ignore',category=UserWarning)
 
