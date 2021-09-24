@@ -1,4 +1,11 @@
 .idea
 .virtual_documents
 # Project exclude paths
-/wiebke_dms_lake/data/
+#/wiebke_dms_lake/data/
+
+.DS_Store
+
+.ipynb_checkpoints/
+
+__pycache__
+
