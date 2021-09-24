@@ -1,0 +1,4 @@
+.idea
+.virtual_documents
+# Project exclude paths
+/wiebke_dms_lake/data/
